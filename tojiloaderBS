@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nwepnet/tojijjs/refs/heads/main/tojisongloader"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nwepnet/tojijjs/refs/heads/main/TojiLoaderV2"))()
